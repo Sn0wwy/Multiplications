@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Multiplications
 //
-//  Created by Nacho Alaves on 23/7/23.
+//  Created by Nacho Alaves on 23/7/23
 //
 
 import SwiftUI
